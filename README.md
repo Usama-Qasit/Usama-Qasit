@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Usama Qasit</h1>
 
 - 🔭 I’m currently building AI Applications and Automation Systems  
-  🚀 Passionate about AI Innovation and Emerging Technologies  
-  💬 Ask me about AI Agents, Voice AI, and SaaS Platforms
+- 🚀 Passionate about AI Innovation and Emerging Technologies  
+- 💬 Ask me about AI Agents, Voice AI, and SaaS Platforms
 - 📫 How to reach me: usama.qasit123@gmail.com
 - ⚡ Fun fact: I'm comming to teen
   
